@@ -1,0 +1,23 @@
+7/6/2023
+	- Harmonic Compensator h > 5 is not needed
+actually it does, as 5th harmonic will move to 7th harmonic
+
+PSO 12/06/2023
+Kp =  0.8844
+
+
+Ki = -1.3249
+
+Kp_pr = 0.953381568234527	
+Vref = 311.1270;
+
+Version 1: 
+ki_pr = 160;
+%ki_pr = 150.4258;
+K_h5 = 20;
+K_h7 = 0 ;
+K_h9 = -0;
+K_h11 = 0;
+K_h13 = -24;
+
+Version 2:
