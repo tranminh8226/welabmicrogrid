@@ -108,7 +108,7 @@ Pmax = [45e3 45e3 37e3 37e3]';
 
 Tsamp = 0.1; %secondary
 
-N = 3;
+N = 2;
 time_thresh = 0.2;
 load_on = 0.21;
 load_off = 28;
