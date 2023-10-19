@@ -60,7 +60,7 @@ R_in4 = 0.03;
 %PR controller 
 ki_pr =150;
 K_h5 = 0;
-K_h7 =0 ;
+K_h7 =0;
 K_h9 = 0;
 K_h11 = 0;
 K_h13 = 0;

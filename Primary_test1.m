@@ -51,9 +51,9 @@ R_in4 = 0.03;
 
 %PR controller 
 ki_pr =160;
-K_h5 =0;
+K_h5 =1;
 K_h7 =0 ;
-K_h9 = 0;
+K_h4 = 10;
 K_h11 = 0;
 K_h13 = 0;
 %Kp_pr = 0.3;
@@ -115,5 +115,5 @@ T_VI =10;
 
 N = 2;
 time_thresh = 0.2;
-load_on = 0.21;
-load_off = 20;
+load_on = 1;
+load_off = 2;
